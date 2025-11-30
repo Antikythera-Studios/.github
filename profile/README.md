@@ -66,7 +66,7 @@ Check each project’s `CONTRIBUTING.md` for specific guidelines.
 ## 📄 License & Code of Conduct  
 
 All projects under Epic Fight Studios are released under the [](./LICENSE), unless noted otherwise.  
-We expect all contributors to follow the [Code of Conduct](./CODE_OF_CONDUCT.md).  
+We expect all contributors to follow the [Code of Conduct](https://github.com/Epic-Fight/epicfight?tab=coc-ov-file#readme).  
 
 <img src="https://i.imgur.com/CWsUfxt.jpg" alt="Bold Breakline" width="1344" height="48" />
 
